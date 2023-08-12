@@ -1,0 +1,217 @@
+/* css for save.php file page */
+.header {
+    background-color:linear-gradient(rgba(0,0,0,0.5));
+    color:white;
+    width:100%;
+    text-align:center;
+    padding:2px;
+}
+  
+.registration-box {
+    width: 420px;
+    height: 380px;
+    background: rgba(0,0,0,0.5);
+    color:#fff;
+    top:50%;
+    left:50%;
+    position:absolute;
+    transform:translate(-50%,-50%);
+    box-sizing:border-box;
+    border-radius: 10px;
+    margin: top 10px;
+    
+}
+
+body {
+     background-image:linear-gradient(rgb(255, 204, 153),rgba(0,0,50,0.8)), url("https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+     background-size:cover;
+     max-width:100%;
+     height:auto;
+     background-repeat: no-repeat;
+     justify-content:center;
+     align-items:center;
+}
+
+.content {
+   color:white;  
+   padding-bottom:40px;
+   text-align:center;
+   font-size:13px;
+}
+   
+.label {
+    width: 420px;
+    display:inline-block;
+    
+}
+  
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 2px 1px;
+    cursor: pointer;
+}
+   
+.button2 {background-color: #008CBA;}
+   
+footer{
+     padding:10px;
+     background:linear-gradient(rgba(0,0,50,0.8));
+     color:white;
+     width: 100%;
+     bottom:0;
+     position:fixed;
+     text-align:center;
+     margin:0;
+     overflow: hidden;
+     font-size:12px;
+     
+}
+
+
+/* css for student_list.php page */
+.header {
+  color:white;
+  width:100%;
+  text-align:center;
+}
+
+.content {
+ color:white;  
+ margin-bottom:10px;
+  text-align:center;
+  font-size:13px;
+}
+
+body {
+    background:linear-gradient(#00539CFF,#0066cc,#9fbfdf) no-repeat fixed center;
+    margin:0;
+    padding:0;
+}
+ 
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 2px 1px;
+  cursor: pointer;
+}
+
+.button5 {
+  background-color: #000000;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+
+
+table {
+  font-family: arial, sans-serif;
+  width: 100%;
+  border-collapse:collapse;
+  background-color:white;
+  
+}
+
+td,th {
+  border: 2px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+  
+
+
+/* css for edit page */
+.header {
+  background-color:linear-gradient(rgba(0,0,0,0.5));
+  color:white;
+  width:100%;
+  text-align:center;
+  padding:2px;
+}
+
+.registration-box {
+  width: 420px;
+  height: 380px;
+  background: rgba(0,0,0,0.5);
+  color:#fff;
+  top:50%;
+  left:50%;
+  position:absolute;
+  transform:translate(-50%,-50%);
+  box-sizing:border-box;
+  border-radius: 10px;
+  margin: top 10px;
+  
+}
+
+body {
+   background-image:linear-gradient(rgb(255, 204, 153),rgba(0,0,50,0.8)), url("https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+   background-size:cover;
+   max-width:100%;
+   height:auto;
+   background-repeat: no-repeat;
+   justify-content:center;
+   align-items:center;
+}
+
+.content {
+ color:white;  
+ padding-bottom:40px;
+  text-align:center;
+  font-size:13px;
+}
+ 
+label {
+  width: 100px;
+  display:inline-block;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 2px 1px;
+  cursor: pointer;
+}
+ 
+.button2 {background-color: #008CBA;}
+ 
+footer{
+   padding:10px;
+   background:linear-gradient(rgba(0,0,50,0.8));
+   color:white;
+   width: 100%;
+   bottom:0;
+   position:fixed;
+   text-align:center;
+   margin:0;
+   overflow: hidden;
+   font-size:12px;
+   
+}
